@@ -1,0 +1,6 @@
+- [x] Rename table from 'user' to 'users' in tables.sql
+- [x] Update register.php to insert into 'users' table
+- [x] Update login.php to select from 'users' table
+- [x] Update booking.php foreign key to reference 'users' table (done in tables.sql)
+- [x] Fix register.html form to submit POST to register.php with correct input names
+- [x] Provide commands to create database and import tables.sql
